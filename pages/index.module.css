@@ -64,4 +64,7 @@
 .main .result {
   font-weight: bold;
   margin-top: 40px;
+  white-space: pre-wrap;
+  margin-left: 5%;
+  margin-right: 5%;
 }
