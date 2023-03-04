@@ -1,4 +1,4 @@
-# Acrostic generator - Node.js example app
+# Acrostic generator
 
 ## Setup
 
@@ -9,7 +9,7 @@
 3. Navigate into the project directory
 
    ```bash
-   $ cd acrostics
+   $ cd acrostic-generator
    ```
 
 4. Install the requirements

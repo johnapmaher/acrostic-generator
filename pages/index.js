@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Itinerary Generator</title>
+        <title>Acrostic Generator</title>
         <link rel="icon" href="/Tinder-Emblem.png" />
       </Head>
 
