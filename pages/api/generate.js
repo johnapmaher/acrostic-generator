@@ -53,5 +53,5 @@ export default async function (req, res) {
 function generatePrompt(name) {
   const capitalizedName =
     name[0].toUpperCase() + name.slice(1).toLowerCase();
-  return `Generate 5 romantic acrostics splitting each letter to make single words of the name ${capitalizedName}.`
+  return `Generate 5 sexy acrostics splitting each letter to make single words of the name ${capitalizedName}.`
 }
